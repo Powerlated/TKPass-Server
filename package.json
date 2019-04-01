@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "restify": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
