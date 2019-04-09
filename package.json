@@ -1,9 +1,11 @@
 {
   "dependencies": {
     "lowdb": "^1.0.0",
-    "restify": "^8.2.0"
+    "restify": "^8.2.0",
+    "winston": "^3.2.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0"
-  }
+  },
+  "main": "src/index.js"
 }
